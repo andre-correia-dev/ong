@@ -1,0 +1,16 @@
+.contato{
+    background-image: url('/imagem/lixeira.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    height: 90vh;
+    width:100%;
+   
+           
+}
+.areacontato{
+    width: 80%;
+    height:50vh;
+    background-color: white ;
+    
+}

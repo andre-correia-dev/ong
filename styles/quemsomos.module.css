@@ -1,0 +1,27 @@
+.quemsomos{
+    background-image: url("/imagem/agua.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+            text-align: center;
+}
+.quemsomos h1{
+    color:white;
+    text-shadow:0 0 10px black;
+}
+.quemsomos p{
+    color:rgb(247, 244, 243);
+    text-shadow:0 0 100px rgb(20, 19, 19);
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.quemsomos h3{
+    color:white;
+    text-shadow:0 0 10px black;
+}
+.quemsomos button{
+  background-color:orange;
+  width:200px;
+  border-radius:30px;
+  margin-bottom:15px;
+}
