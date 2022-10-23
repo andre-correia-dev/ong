@@ -10,6 +10,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-image: url('/imagem/agua2.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  text-align: center;
  
 }
 .videofundo{
@@ -117,6 +121,9 @@
   color:white;
   text-shadow:0 0  40px black;
  
+}
+.main p {
+  color:white;
 }
 
 .logo {

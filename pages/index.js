@@ -13,15 +13,12 @@ export default function Home() {
 
       <main className={styles.main}>
 
-      <video  autoPlay muted loop className={styles.videofundo} > 
-                 
-                 <source src={"/imagem/mundo.mp4" }type="video/mp4"/>       
-             </video>
+      
         <h1 className={styles.title}>
           Onarma <a href="https://nextjs.org"></a>
         </h1>
 
-        <p>organizaçao nao governamental amigos do rio magu</p>
+        <p>(organizaçao não governamental amigos do rio magú) </p>
 
         <div className={styles.grid}>
           <a href="/quemsomos" className={styles.card}>
@@ -38,7 +35,7 @@ export default function Home() {
             href="/doacoes"
             className={styles.card}
           >
-            <h2>Doaçoes &rarr;</h2>
+            <h2>Doações &rarr;</h2>
             <p>Seja doador de uma de nossas campanhas</p>
           </a>
 
@@ -55,16 +52,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <a
-          href=""
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          infinitspacedev{' '}
-          <span className={styles.logo}>
-            
-          </span>
-        </a>
+       <a>infinitspacedev</a>
       </footer>
     </div>
   )
