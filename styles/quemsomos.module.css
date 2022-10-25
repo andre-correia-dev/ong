@@ -1,5 +1,5 @@
 .quemsomos{
-    background-image: url("/imagem/agua.jpg");
+    background-image: url("/imagem/agua2.jpg");
             background-size: cover;
             background-repeat: no-repeat;
             text-align: center;
@@ -24,4 +24,7 @@
   width:200px;
   border-radius:30px;
   margin-bottom:15px;
+}
+.quemsomos .rodape{
+    color: black;
 }
