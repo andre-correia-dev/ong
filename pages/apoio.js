@@ -19,13 +19,26 @@ export default function Apoio(){
                 <div>
                   <img
                     alt="Sample"
-                    src="/imagem/vereador.jpg"width={470}textAlign='center'
+                    src="/imagem/repam.jpg"width={370}textAlign='center'
+                  />
+                  <img
+                    alt="Sample"
+                    src="/imagem/brejo.png"width={370}textAlign='center'
                   />
                 </div>
                 <CardBody>
                   <CardTitle tag="h5">
+                   Terço dos Homens do são joão 
+                  </CardTitle>
+                
+                  <CardTitle tag="h5">
+                   Clube amigos do rio magú 
+                  </CardTitle>
+
+                  <CardTitle tag="h5">
                    Presidente da camara de vereadores de santana-ma 
                   </CardTitle>
+                  
                   <CardSubtitle
                     className="mb-2 text-muted"
                     tag="h6"
