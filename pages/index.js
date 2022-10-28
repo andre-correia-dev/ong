@@ -19,6 +19,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
+        <img src='/imagem/logoonarma.jpg'></img>
 
       
         <h1 className={styles.title}>
