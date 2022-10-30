@@ -36,14 +36,14 @@ export default function Apoio(){
                   </CardTitle>
 
                   <CardTitle tag="h5">
-                   Presidente da camara de vereadores de santana-ma 
+                   
                   </CardTitle>
-                  
+
                   <CardSubtitle
                     className="mb-2 text-muted"
                     tag="h6"
                   >
-                   vereador NEGO
+                   ONARMA
                   </CardSubtitle>
                   <CardText>
                     Trabalhando para nossa gente!!
