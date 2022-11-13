@@ -23,7 +23,7 @@ export default function Home() {
 
       
         <h1 className={styles.title}>
-          Onarma <a href="https://nextjs.org"></a>
+          Onarma 
         </h1>
 
         <p>(Ong amigos do rio magú) </p>
@@ -32,6 +32,11 @@ export default function Home() {
           <a href="/quemsomos" className={styles.card}>
             <h2>Quem somos &rarr;</h2>
             <p>conheça nosso trabalho seja um de nossos parceiros!!</p>
+          </a>
+
+          <a href="/galeria" className={styles.card}>
+            <h2>Galeria &rarr;</h2>
+            <p>Visite nossa galeria de fotos</p>
           </a>
 
           <a href="/contato" className={styles.card}>

@@ -29,7 +29,7 @@ import Head from 'next/head';
                 <div>
                   <img
                     alt="Sample"
-                    src="https://chart.googleapis.com/chart?cht=qr&chl=chave%20pix%3A%20000.000.123&chs=180x180&choe=UTF-8&chld=L|2"width={300}textAlign='center'
+                    src="/imagem/qronarma.png"width={300}textAlign='center'
                   />
                 </div>
                 <CardBody>
@@ -43,7 +43,7 @@ import Head from 'next/head';
                     E faça um pix
                   </CardSubtitle>
                   <CardText>
-                    Seja um doador permanente e ajude o meio ambiente! A Onarma agradeçe!! .
+                    Seja um doador permanente e ajude o meio ambiente! O rio magú  agradeçe!! .
                   </CardText>
                   <Button href ='/'color="success">voltar</Button>
               
