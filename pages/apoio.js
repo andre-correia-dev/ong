@@ -21,10 +21,17 @@ export default function Apoio(){
                     alt="Sample"
                     src="/imagem/repam.jpg"width={370}textAlign='center'
                   />
+                  
                   <img
+                  
                     alt="Sample"
                     src="/imagem/brejo.png"width={370}textAlign='center'
                   />
+                  <img
+                  
+                  alt="Sample"
+                  src="/imagem/enilsonlima.jpg"width={270}textAlign='center'
+                />
                 </div>
                 <CardBody>
                   <CardTitle tag="h5">
